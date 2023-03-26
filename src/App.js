@@ -4,9 +4,9 @@ import './App.css';
 import React from 'react';
 import Designer from './components/Designer';
 import Skill from './components/Skill';
-import { BsFillCalendar2XFill, BsFillCalendarWeekFill } from 'react-icons/bs';
+import { BsFillCalendar2XFill, } from 'react-icons/bs';
 import { FaStarOfLife } from 'react-icons/fa'
-import { MdEmail, MdWork, MdHomeWork } from 'react-icons/md'
+import { MdEmail, MdHomeWork } from 'react-icons/md'
 import { IoIosCall } from 'react-icons/io'
 import { GiWorld } from 'react-icons/gi'
 
